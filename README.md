@@ -7,6 +7,6 @@ Three zombies will each spawn in the area on 3 different tiles.
 
 Find the probabilities of three conditions:
 
-i. One zombie spawns on orange, one spawns on yellow, and one spawns on any colour.
-ii. At least one zombie spawns on either yellow or orange but not both, and the remaining zombies spawn on red.
-iii. All three spawn on the red area.
+1. One zombie spawns on orange, one spawns on yellow, and one spawns on any colour.
+2. At least one zombie spawns on either yellow or orange but not both, and the remaining zombies spawn on red.
+3. All three spawn on the red area.
